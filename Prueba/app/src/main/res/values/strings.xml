@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="action_settings">Settings</string>
+    <string name="Saludo">Hola</string>
+</resources>
